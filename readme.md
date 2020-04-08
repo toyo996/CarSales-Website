@@ -2,7 +2,7 @@
 <h2>Via cmd go to project folder.</h2>
     <p>type ->  composer install</p>
     <p>type ->  npm install</p>
-    <p>type ->  php artisan migrate</p>
+    <p>type ->  php artisan serve</p>
     <p>type ->  php artisan migrate</p>
     <p>type ->  php artisan db:seed</p>
     <br><br>
